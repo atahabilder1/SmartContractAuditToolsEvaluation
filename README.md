@@ -18,6 +18,12 @@ Dozens of auditing tools exist, but they vary in **coverage, accuracy, usability
 
 ---
 
+## 🗃️ Dataset
+
+We used https://github.com/shenyimings/FORGE-Artifacts as our base dataset of vulnerable smart contracts.
+
+---
+
 ## 🧩 Categories of Tools & Selected Candidates  
 
 We classify smart contract vulnerability detection tools into **seven categories**.  
